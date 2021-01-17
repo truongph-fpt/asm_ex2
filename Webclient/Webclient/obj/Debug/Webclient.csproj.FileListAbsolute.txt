@@ -1,0 +1,170 @@
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Webclient.dll.config
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Webclient.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Webclient.pdb
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\csc.exe
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\csc.exe.config
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\csc.rsp
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\csi.exe
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\csi.exe.config
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\csi.rsp
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.AppContext.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Console.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.IO.Compression.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Net.Http.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.ValueTuple.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\vbc.exe
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\vbc.exe.config
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\vbc.rsp
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\VBCSCompiler.exe
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Antlr3.Runtime.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\EntityFramework.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\EntityFramework.SqlServer.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Newtonsoft.Json.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Helpers.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Mvc.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Optimization.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Razor.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.WebPages.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.WebPages.Razor.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\WebGrease.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\EntityFramework.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\EntityFramework.SqlServer.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Helpers.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Mvc.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Optimization.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.Razor.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.WebPages.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\System.Web.WebPages.Razor.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Newtonsoft.Json.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Antlr3.Runtime.pdb
+C:\Users\hoa\source\repos\Webclient\Webclient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hoa\source\repos\Webclient\Webclient\obj\Debug\Webclient.csprojAssemblyReference.cache
+C:\Users\hoa\source\repos\Webclient\Webclient\obj\Debug\Webclient.csproj.CoreCompileInputs.cache
+C:\Users\hoa\source\repos\Webclient\Webclient\obj\Debug\Webclient.csproj.CopyComplete
+C:\Users\hoa\source\repos\Webclient\Webclient\obj\Debug\Webclient.dll
+C:\Users\hoa\source\repos\Webclient\Webclient\obj\Debug\Webclient.pdb
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Webclient.dll.config
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Webclient.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Webclient.pdb
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\csc.exe
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\csc.exe.config
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\csc.rsp
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\csi.exe
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\csi.exe.config
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\csi.rsp
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.AppContext.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Console.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Net.Http.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\vbc.exe
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\vbc.exe.config
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\vbc.rsp
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Antlr3.Runtime.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\EntityFramework.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\EntityFramework.SqlServer.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Newtonsoft.Json.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Helpers.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Mvc.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Optimization.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Razor.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.WebPages.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\WebGrease.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\EntityFramework.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\EntityFramework.SqlServer.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Helpers.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Mvc.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Optimization.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.Razor.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.WebPages.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Newtonsoft.Json.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Antlr3.Runtime.pdb
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\obj\Debug\Webclient.csprojAssemblyReference.cache
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\obj\Debug\Webclient.csproj.CoreCompileInputs.cache
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\obj\Debug\Webclient.csproj.CopyComplete
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\obj\Debug\Webclient.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\obj\Debug\Webclient.pdb
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\PagedList.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\PagedList.Mvc.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\PagedList.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\Webclient\Webclient\bin\PagedList.Mvc.xml

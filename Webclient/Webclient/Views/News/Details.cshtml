@@ -1,0 +1,29 @@
+﻿@model Webclient.Models.News
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Article Details</h2>
+
+<div>
+    <div class="label-detail">
+        <h4>Title:</h4>
+        <p>@Html.DisplayFor(model => model.Title)</p>
+    </div>
+    <div class="label-detail">
+        <h4>Thumbnail:</h4>
+        @if (@Model.Thumb.Length != 0)
+        {
+            <img src="@Html.DisplayFor(model => model.Thumb)" />
+        }
+        else { 
+            <i>No Thumbnail</i>
+        }
+    </div>
+    <div class="label-detail">
+        <h4>Content:</h4>
+        <p>@Html.DisplayFor(model => model.Description)</p>
+    </div>
+</div>
+<a href="@Url.Action("Index", "News")"><button class="btn btn-primary">Back To List</button></a>

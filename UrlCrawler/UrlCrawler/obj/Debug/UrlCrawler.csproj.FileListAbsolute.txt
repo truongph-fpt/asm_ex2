@@ -1,0 +1,78 @@
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe.config
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csprojAssemblyReference.cache
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CoreCompileInputs.cache
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CopyComplete
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.exe
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.pdb
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.xml
+C:\Users\hoa\source\repos\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe.config
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.pdb
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.pdb
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csprojAssemblyReference.cache
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CopyComplete
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.exe
+C:\Users\Truong\OneDrive\Máy tính\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.pdb
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe.config
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.exe
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\UrlCrawler.pdb
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.pdb
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Buffers.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Memory.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Channels.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csprojAssemblyReference.cache
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.csproj.CopyComplete
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.exe
+C:\Users\Truong\source\repos\Crawler\UrlCrawler\UrlCrawler\obj\Debug\UrlCrawler.pdb
